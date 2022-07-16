@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main(void) /* ...so that this prints 98\n */
 {
 int n;
 int a[5];
